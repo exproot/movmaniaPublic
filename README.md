@@ -1,6 +1,10 @@
 # Movmania - UIKit(Programmatically) TMDB API
 ## 2024
 
+## Screenshots
+
+<img src="/repo-images/movmania-home.png" width="266">&emsp;<img src="/repo-images/movmania-search.png" width="266">&emsp;<img src="/repo-images/movmania-favorites.png" width="266">&emsp;<img src="/repo-images/movmania-settings.png" width="266">&emsp;<img src="/repo-images/movmania-actors.png" width="266">&emsp;<img src="/repo-images/movmania-details.png" width="266">
+
 * 1-Project Setup (Removing Storyboard-TabBar-HomeVC-SettingsVC)
 * 2-Cells that contains 'CollectionView's for main 'TableView' added.
 * 3-Created 'HeaderView' which contains poster, title and description for #1 rated title
